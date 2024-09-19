@@ -1,6 +1,6 @@
 # Temprature-converter
 A temperature converter website typically allows users to convert temperatures between different scales, such as Celsius, Fahrenheit, and Kelvin.
-It is made with HTML CSS and JAVASCRIPT
+It is made with HTML CSS and JAVASCRIPT.
 
 ![Screenshot 2024-09-19 115727](https://github.com/user-attachments/assets/90298b8e-5349-4aff-833d-dd38689ad19f)
 
